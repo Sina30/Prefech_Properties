@@ -1,10 +1,8 @@
-<h4 align="center">
-	<img src="https://img.shields.io/github/release/Prefech/Prefech_Properties.png">
-	<img src="https://img.shields.io/github/last-commit/Prefech/Prefech_Properties">
-	<img src="https://img.shields.io/github/issues/Prefech/Prefech_Properties.png">
-	<img src="https://img.shields.io/github/contributors/Prefech/Prefech_Properties.png">
-	<a href="https://discord.gg/prefech" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
-</h4>
+![release](https://img.shields.io/github/release/Prefech/Prefech_Properties.png)
+![commit](https://img.shields.io/github/last-commit/Prefech/Prefech_Properties)
+![issues](https://img.shields.io/github/issues/Prefech/Prefech_Properties.png)
+![contributors](https://img.shields.io/github/contributors/Prefech/Prefech_Properties.png)
+[![discord](https://discordapp.com/api/guilds/721339695199682611/widget.png)](https://discord.gg/prefech)
 
 ![banner](https://prefech.com/i/Prefech%20Properties.png)
 > ### Disclaimer:
