@@ -26,4 +26,4 @@
 
 > ### Support:
 > For support please join our discord:
-> [![joinDiscord](https://prefech.com/i/joinDiscord)](https://discord.gg/prefech)
+> [![joinDiscord](https://discordapp.com/api/guilds/721339695199682611/widget.png)](https://discord.gg/prefech)
